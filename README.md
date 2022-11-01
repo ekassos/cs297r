@@ -7,7 +7,7 @@
 | Week 2 |  Fri Sep 9, 2022 |    Node.js and MongoDB    | [Complete](https://github.com/ekassos/to-do-app-Node.js-MongoDB) |                                                      
 | Week 3 | Fri Sep 16, 2022 |          Flutter          | [Complete](https://github.com/ekassos/to-do-app-flutter)      |
 | Week 4 | Fri Sep 23, 2022 |        ObservableHQ       | [Complete](https://observablehq.com/@ekassos/to-do-app-observablehq)     |
-| Week 5 | Fri Sep 30, 2022 |    Svelte and Firebase    |                                                       |
+| Week 5 | Fri Sep 30, 2022 |    Svelte and Firebase    | [Complete](https://github.com/ekassos/to-do-app-svelte-firebase)                       |
 | Week 6 |  Fri Oct 7, 2022 |           Flask           |                                                       |
 | Week 7 | Fri Oct 14, 2022 |      Meteor & Svelte      |                                                       |
 
