@@ -9,7 +9,7 @@
 | Week 4 | Fri Sep 23, 2022 |        ObservableHQ       | [Complete](https://observablehq.com/@ekassos/to-do-app-observablehq)     |
 | Week 5 | Fri Sep 30, 2022 |    Svelte and Firebase    | [Complete](https://github.com/ekassos/to-do-app-svelte-firebase)                       |
 | Week 6 |  Fri Oct 7, 2022 |           Flask           | [Complete](https://github.com/ekassos/to-do-app-flask)       |
-| Week 7 | Fri Oct 14, 2022 |      Meteor & Svelte      |                                                       |
+| Week 7 | Fri Oct 14, 2022 |      Meteor & Svelte      | [Complete](https://github.com/ekassos/to-do-app-meteor-svelte)   |
 
 ## Tier 2: Implement When2Meet & Doodle and compare user experience with user study
 
