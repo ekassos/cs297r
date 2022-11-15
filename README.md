@@ -1,3 +1,5 @@
+# CS 279: Research Topics in Human-Computer Interaction
+
 ## Tier 1: Building a To-Do App with Multiple Frameworks and Languages
 
 ### Weekly Tracker
