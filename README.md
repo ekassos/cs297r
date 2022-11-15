@@ -13,7 +13,7 @@
 | Week 6 |  Fri Oct 7, 2022 |           Flask           | [Complete](https://github.com/ekassos/to-do-app-flask)       |
 | Week 7 | Fri Oct 14, 2022 |      Meteor & Svelte      | [Complete](https://github.com/ekassos/to-do-app-meteor-svelte)   |
 
-## Tier 2: Implement When2Meet & Doodle and compare user experience with user study
+## Tier 2: Implementing When2Meet & Doodle and comparing user experience with a user study
 
 ### Weekly Tracker
 |  Week  |     Due Date     |     Platform    |                         Status                        |
