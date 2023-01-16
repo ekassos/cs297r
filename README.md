@@ -15,6 +15,8 @@
 
 ## Tier 2: Implementing When2Meet & Doodle and comparing user experience with a user study
 
+### [📝 Final user evaluation report](https://github.com/ekassos/cs297r/blob/main/Doodle%20%26%20When2Meet%20User%20Study%20Report.pdf)
+
 ### Weekly Tracker
 |  Week  |     Due Date     |     Platform    |                         Status                        |
 |:------:|:----------------:|:-------------------------:|:-----------------------------------------------------:|
